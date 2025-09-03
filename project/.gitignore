@@ -23,3 +23,21 @@ dist-ssr
 *.sln
 *.sw?
 .env
+
+# TypeScript
+*.tsbuildinfo
+
+# Coverage
+coverage/
+
+# OS
+Thumbs.db
+
+# Misc
+*.tgz
+*.bak
+*.tmp
+
+# Optional: ignore public images if not versioned
+# public/*.jpg
+# public/*.png

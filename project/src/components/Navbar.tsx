@@ -30,10 +30,10 @@ const Navbar = () => {
           <div className="flex items-center space-x-3">
             <span className="inline-block h-8 w-8 mr-1 align-middle">
               <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <rect width="32" height="32" rx="6" fill="#006600" />
-                <circle cx="19" cy="16" r="7" fill="white" />
-                <path d="M22.5 16a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0Z" fill="#006600" />
-                <path d="M23.5 12.5l-1.2 2.1-2.3.3 1.7 1.6-.4 2.3 2-1.1 2 1.1-.4-2.3 1.7-1.6-2.3-.3-1.2-2.1Z" fill="white" />
+                <rect width="32" height="32" rx="6" fill="#01411C" />
+                <rect x="2" y="2" width="6" height="28" rx="2" fill="#fff" />
+                {/* Large star moved slightly to the right */}
+                <polygon points="18,10 19.76,14.47 24.62,14.47 20.93,17.06 22.69,21.53 18,18.94 13.31,21.53 15.07,17.06 11.38,14.47 16.24,14.47" fill="#fff" />
               </svg>
             </span>
             <span className="text-xl font-bold text-gray-900">Khan Tax Consultancy</span>
