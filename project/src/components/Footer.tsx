@@ -8,7 +8,14 @@ const Footer = () => {
         <div className="grid md:grid-cols-3 gap-8">
           <div>
             <div className="flex items-center space-x-3 mb-4">
-              <Calculator className="h-8 w-8 text-emerald-400" />
+              <span className="inline-block h-8 w-8 mr-1 align-middle">
+                <svg viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <rect width="32" height="32" rx="6" fill="#01411C" />
+                  <rect x="2" y="2" width="6" height="28" rx="2" fill="#fff" />
+                  {/* Large star moved slightly to the right */}
+                  <polygon points="18,10 19.76,14.47 24.62,14.47 20.93,17.06 22.69,21.53 18,18.94 13.31,21.53 15.07,17.06 11.38,14.47 16.24,14.47" fill="#fff" />
+                </svg>
+              </span>
               <span className="text-xl font-bold">Khan Tax Consultancy</span>
             </div>
             <p className="text-gray-400 leading-relaxed">
