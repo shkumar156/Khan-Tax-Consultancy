@@ -25,7 +25,7 @@ const Contact = () => {
       title: 'Social Media',
       description: 'Follow us for tax updates',
       actions: [
-        { label: 'Facebook Page', link: 'https://facebook.com', primary: true, external: true }
+        { label: 'Facebook Page', link: 'https://www.facebook.com/share/163cwYFjZC/', primary: true, external: true }
       ]
     }
   ];
