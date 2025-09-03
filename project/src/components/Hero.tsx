@@ -68,7 +68,7 @@ const Hero = () => {
           <div className="relative">
             <div className="relative z-10 bg-white rounded-2xl shadow-2xl p-8 transform rotate-3 hover:rotate-0 transition-transform duration-300">
               <img 
-                src="/public/Benefits.jpg" 
+                src="/Benefits.jpg" 
                 alt="Tax Benefits Illustration" 
                 className="w-full h-auto object-contain rounded-lg"
               />

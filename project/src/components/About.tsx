@@ -41,7 +41,7 @@ const About = () => {
             <div className="bg-white rounded-2xl shadow-xl p-8">
               <div className="text-center mb-8">
                 <img 
-                  src="/public/Muqsit Umar profile picture.jpg" 
+                  src="/Muqsit Umar profile picture.jpg" 
                   alt="Advocate Muqsit Umar Khan" 
                   className="w-full max-w-xs h-auto rounded-full mx-auto mb-4 object-contain border-4 border-emerald-100"
                 />
