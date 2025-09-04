@@ -17,7 +17,7 @@ const Contact = () => {
       title: 'Phone Call',
       description: 'Direct phone consultation',
       actions: [
-        { label: '0333640977', link: 'tel:+92333640977', primary: true }
+        { label: '03336409770', link: 'tel:+923336409770', primary: true }
       ]
     },
     {
