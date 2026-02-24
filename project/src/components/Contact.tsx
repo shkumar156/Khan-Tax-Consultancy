@@ -9,7 +9,7 @@ const Contact = () => {
       description: 'Quick consultation via WhatsApp',
       actions: [
         { label: '03211822358', link: 'https://wa.me/923211822358', primary: true },
-        { label: '03134387413', link: 'https://wa.me/923134387413', primary: false }
+        { label: '03336409770', link: 'https://wa.me/923336409770', primary: true }
       ]
     },
     {
